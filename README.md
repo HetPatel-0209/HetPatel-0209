@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Het Patel</h1>
 
   <h3 align="center">
-    🚀 Developer | Data Science & AI/ML Enthusiast | UI/UX Designer
+    🚀 Backend Developer | Data Science & AI/ML Enthusiast | UI/UX Designer
   </h3>
   
   <p align="center">
